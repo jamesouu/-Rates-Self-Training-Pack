@@ -1,4 +1,4 @@
-# 📘 Rates Self-Training Pack
+# 📘 Rates Trading Self-Training Pack
 
 A self-directed learning program to replicate the **sell-side rates training** structure, inspired by J.P. Morgan’s organizational blueprint.
 
@@ -116,9 +116,5 @@ Rates-Self-Training-Pack/
 
 ---
 
-## ✅ Next Step
 
-Start with **Week 01 — Bond Pricer**, then progress through the roadmap.  
-Each project should be **documented on GitHub** with clean code, visuals, and explanations.
-
-This README is the anchor file for your **Rates Self-Training Pack**.
+This README is the anchor file for your **Rates Trading Self-Training Pack**.
